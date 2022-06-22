@@ -1,8 +1,8 @@
 site_name: Envi OData Public API 1.0
 nav:
-  - Home: index.md
-  - Introduction: Introduction.md
+  - Introduction: index.md
   - Testing with Postman: Testing with Postman.md 
+  - Retrieving Data using cURL: Retrieving_Data.md
   - Inventory: Inventory.md
   - Addresses: Addresses.md
 

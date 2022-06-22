@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# Envi OData Public API 1.0
+This page contains description of Envi public OData API. It includes all public end-points as well as description of parameters and models used. You can use this page for testing and prototyping purposes.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+!!! note
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    API Endpoint <br>
+    ``` 
+    https://api-demo.envi.net 
+    ``` 
+    Schemes: HTTP, HTTPS <br>
+    Version: V1
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# What's new
+Stay up-to-date with the latest API features, improvements, and articles.
+[Subscribe to our newsletter](https://news.envi.net/Signup/dev-news){ .md-button .md-button--primary }
+
+<span style="color: #F05D30">V. 5.5.4</span>
+
+From now on, you can use the Requisition Items endpoints to get list of Requisition Items from all Requisitions within logged organization or get specified Requisioton Item by ID.
+
+<span style="color: #F05D30">V. 5.4.7</span>
+
+Requisitions endpoints are now avalable on Envi OData API.
+
+<span style="color: #F05D30">V. 5.4.5</span>
+
+We have added a new Inventory Vendor endpoint that enables you to create a new Inventory Vendor within logged organization and specified Inventory.
