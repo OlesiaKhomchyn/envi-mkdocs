@@ -12,9 +12,9 @@ This page contains description of Envi public OData API. It includes all public 
     Version: V1
 
 
-
 # What's new
 Stay up-to-date with the latest API features, improvements, and articles.
+[Subscribe to our newsletter](https://news.envi.net/Signup/dev-news){ .md-button .md-button--primary }
 
 <span style="color: #F05D30">V. 5.5.4</span>
 

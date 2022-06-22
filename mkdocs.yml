@@ -1,6 +1,4 @@
-site_name: My Docs
-theme:
-  name: material
+site_name: Envi OData Public API 1.0
 nav:
   - Home: index.md
   - Introduction: Introduction.md
@@ -8,4 +6,23 @@ nav:
   - Inventory: Inventory.md
   - Addresses: Addresses.md
 
-use_directory_urls: false
+theme:
+  name: material
+  palette: 
+    primary: black
+  logo: assets/logo.png
+  
+  
+  use_directory_urls: false
+
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+
